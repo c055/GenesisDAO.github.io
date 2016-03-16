@@ -1,7 +1,7 @@
 ##### GenesisDAO on Slack - Join Us 
 ------
 
-https://makerdao.slack.com
+https://genesisdao.slack.com
 
 # landing-page
 
