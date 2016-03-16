@@ -1,7 +1,7 @@
-##### Maker on SLACK - join us 
+##### GenesisDAO on SLACK - join us 
 ------
-[![Slack Status](http://slack.makerdao.com/badge.svg)](https:/slack.makerdao.com)
+[![Slack Status](http://slack.genesisdao.com/badge.svg)](https:/slack.genesisdao.com)
 
-# makerDAO-splash
+# landing-page
 
 Temp. Landing Page
